@@ -94,6 +94,8 @@ public class ReadData{
         // double[][] xy = getColumns(7,9);
         // double[][] xyStd = standardUnits(xy);
         // double correlation = correlation(xyStd);
+        //double[] xyStandDev = stdDeviation(xyStd);
+        //
         // double slope = correlation * xyStd[1] / xyStd[0];
         // double[] means = mean(xy)
         // double intercept = means[1] - slope * means[0];
